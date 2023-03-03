@@ -16,7 +16,7 @@ An education company named X Education sells online courses to industry professi
 - ROC Curve
 - Prediction on test set
 - Precision- Recall
-- 
+
 ## Details of files given
 - Leads Scoring Case Study by Mahesh,Raj,Soundarya for upGrad & IIIT Bangalore.ipynb : The python file showing coding,data analysis and Model building.
 - Assignment Subjective Questions.doc : Subjective Questions Answered
